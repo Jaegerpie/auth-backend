@@ -1,4 +1,4 @@
-Great request. Here’s a clean revision of every fix and what mistake it corrected.
+clean revision of every fix and  mistakes that were corrected.
 1) registerUser file path extraction
 File: src/controllers/user.controller.js
 Old mistake:
